@@ -1,5 +1,5 @@
 # win-clipboard.yazi
-Copy files to the clipboard by calling windows Automatic copy function without generating disk garbage
+Copy files to the clipboard by calling windows build-incopy function without generating disk garbage
 
 ## dependcy
 - powershell
