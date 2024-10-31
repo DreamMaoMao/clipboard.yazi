@@ -1,4 +1,4 @@
-# win-clipboard.yazi
+# clipboard.yazi
 Copy files to the clipboard
 
 ## dependcy
