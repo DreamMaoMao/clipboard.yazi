@@ -16,6 +16,6 @@ Copy or install this plugin and add the following keymap to your `manager.prepen
 
 ```toml
 on = "<C-y>"
-run = ["plugin win-clipboard"]
+run = ["plugin clipboard"]
 ```
 
